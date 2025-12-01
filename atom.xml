@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xmgank.github.io</id>
+    <title>PIPKIN</title>
+    <updated>2025-12-01T08:55:56.130Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xmgank.github.io"/>
+    <link rel="self" href="https://xmgank.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://xmgank.github.io/images/avatar.png</logo>
+    <icon>https://xmgank.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, PIPKIN</rights>
+    <entry>
+        <title type="html"><![CDATA[[论文翻译] 将梯度引入规则：面向在线、自适应的基于溯源的入侵检测]]></title>
+        <id>https://xmgank.github.io/post/lun-wen-fan-yi-jiang-ti-du-yin-ru-gui-ze-mian-xiang-zai-xian-zi-gua-ying-de-ji-yu-su-yuan-de-ru-qin-jian-ce/</id>
+        <link href="https://xmgank.github.io/post/lun-wen-fan-yi-jiang-ti-du-yin-ru-gui-ze-mian-xiang-zai-xian-zi-gua-ying-de-ji-yu-su-yuan-de-ru-qin-jian-ce/">
+        </link>
+        <updated>2025-12-01T08:50:18.000Z</updated>
+    </entry>
+</feed>
